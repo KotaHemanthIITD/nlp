@@ -25,3 +25,12 @@ Loss is function of predicted output, expected ouput. This captures how far our 
 #### What is the "chain rule" in gradient flow?
 
 Chain Rule is a derivation technique. Since we have activation function at neuron, chain rule comes handy. When differentiating error which constitutes of activation function this rule make things simple.  
+
+
+### Team :
+
+T R K Saran
+
+Shyamant Achar
+
+Shaan Respwal
