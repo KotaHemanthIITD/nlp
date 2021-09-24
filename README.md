@@ -26,6 +26,18 @@ Loss is function of predicted output, expected ouput. This captures how far our 
 
 Chain Rule is a derivation technique. Since we have activation function at neuron, chain rule comes handy. When differentiating error which constitutes of activation function this rule make things simple.  
 
+#### Assignment
+We have 2 Hidden layers. 
+
+First Hidden Layer has 5 nuerons.
+
+Second Hidden Layer has 4 nuerons. 
+
+First set of parameters will be 3x5 which is between input & first hidden layer.
+
+Second set of parameters will be 6x4 which is between 1st hidden layer & 2nd hidden layer.
+
+Third set of parameters will be 5x1 which is between 2nd hidden & output. 
 
 ### Team :
 
