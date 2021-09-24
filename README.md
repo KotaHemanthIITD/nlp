@@ -39,6 +39,10 @@ Second set of parameters will be 6x4 which is between 1st hidden layer & 2nd hid
 
 Third set of parameters will be 5x1 which is between 2nd hidden & output. 
 
+In total parameters = 44 which can be seen in model summary in assignment. 
+
+As discussed in class as epoch increases , error decreases is a general observation. In my submission as well this is reflected.  
+
 ### Team :
 
 T R K Saran
